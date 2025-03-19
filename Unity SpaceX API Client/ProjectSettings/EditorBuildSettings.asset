@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 837b8330b4ee2fd4f9ed7171d90c5e93
+  - enabled: 1
+    path: Assets/Scenes/SpaceXLaunchesBrowser.unity
+    guid: 7fd4f1d1bac42f2449b2cbbd31ab8642
+  - enabled: 1
+    path: Assets/Scenes/TeslaRoadsterSimulation.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: e7b83285a9ea97448afc58f3f52b56c8, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dc46435ca1514824f9cdd03f1f984146,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 3d000eb8de0f5ca49809cbd9b4608c4c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: a9488627c4cb8c9418ad38a68af24e54, type: 2}
