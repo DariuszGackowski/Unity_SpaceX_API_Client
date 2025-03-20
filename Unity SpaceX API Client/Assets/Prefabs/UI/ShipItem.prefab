@@ -1654,6 +1654,7 @@ MonoBehaviour:
   AddedHomePortText: {fileID: 1037885557667543059}
   AddedMissionsNumberText: {fileID: 8013905491537757653}
   ShipImageButton: {fileID: 4719422803705989871}
+  MaskableGraphic: {fileID: 5275722159892137856}
 --- !u!114 &8190804481737642660
 MonoBehaviour:
   m_ObjectHideFlags: 0

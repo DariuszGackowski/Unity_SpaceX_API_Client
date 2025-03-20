@@ -126,8 +126,6 @@ namespace TeslaRoadsterSimulation
 
             RoadsterModel.transform.DOKill();
             RoadsterModel.transform.DOMove(nextPosition, duration).SetEase(Ease.InOutSine).SetUpdate(UpdateType.Fixed);
-
-            Debug.Log("Roadster position updated");
         }
 
         private void UpdateRoadsterFlightPath()
