@@ -538,7 +538,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 4547189423393377061}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
@@ -554,6 +554,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6900661d164c0854ead8f99388aebc4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
   AddedNameText: {fileID: 1244695111439317955}
   AddedPayloadsNumberText: {fileID: 970763727986382129}
   AddedRocketNameText: {fileID: 7055501285006766127}
@@ -561,6 +569,8 @@ MonoBehaviour:
   TrueUpcomingImage: {fileID: 6730170822915070644}
   FalseUpcomingImage: {fileID: 8482343964209100508}
   LunchItemButton: {fileID: 667346329379758062}
+  sPopped: 0
+  RectTransform: {fileID: 5661799598050028865}
 --- !u!222 &6741829524180755054
 CanvasRenderer:
   m_ObjectHideFlags: 0
