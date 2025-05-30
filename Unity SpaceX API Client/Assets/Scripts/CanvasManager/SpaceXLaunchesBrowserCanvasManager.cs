@@ -113,8 +113,6 @@ namespace SpaceXLaunchesBrowser
             Canvas.ForceUpdateCanvases();
 
             LaunchItemContentSizeFitter.verticalFit = ContentSizeFitter.FitMode.Unconstrained;
-
-            LaunchItems.Where(launchItem => launchItem.ActiveSelf && launchItem.Identifier > 10).ToList().ForEach(launchItem => launchItem.SetInactive());
         }
         private void SetupShips(Launch launch)
         {
