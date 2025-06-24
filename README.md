@@ -1,12 +1,13 @@
 🚀 Unity SpaceX API Client
+
 A Unity (2022.3.51f1) mobile demo application that connects to the public SpaceX API, 
 featuring a real-time simulation of the Tesla Roadster orbiting the Sun and a fully interactive browser for SpaceX rocket launches.
 
 📱 Platform
+
 Targeted for mobile devices (Android or iOS), with full support for touch input and gestures.
 
 🎯 Core Features
-
 🔸 Main Menu
 
 Allows users to choose between:
